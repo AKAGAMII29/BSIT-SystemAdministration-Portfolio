@@ -24,10 +24,10 @@
     LinkedIn: https://www.linkedin.com/in/john-lester-de-rama-matienzo-22383b426/
 ---
 # Installation Screenshots
-    ![Git Installation](screenshots/MATIENZO_GIT.png)
-    ![GitHub Desktop](screenshots/MATIENZO_GITHUB_DESKTOP.png)
-    ![Visual Studio Code](screenshots/MATIENZO_VSCODE.png)
-    ![VirtualBox](screenshots/MATIENZO_VIRTUALBOX.png)
+![Git Installation](screenshots/MATIENZO_GIT.png)
+![GitHub Desktop](screenshots/MATIENZO_GITHUB_DESKTOP.png)
+![Visual Studio Code](screenshots/MATIENZO_VSCODE.png)
+![VirtualBox](screenshots/MATIENZO_VIRTUALBOX.png)
 ---
 # Challenges Encountered
     - When I create a folder for the Repository it was empty and the solution I do was to create/added a README files for each  folders.
