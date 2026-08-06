@@ -20,8 +20,8 @@
     - Windows 11 Enterprise Evaluation ISO
 ---
 # Professional Accounts
-    GitHub: [AKAGAMII29](https://github.com/AKAGAMII29)
-    LinkedIn: [John Lester De Rama Matienzo](https://www.linkedin.com/in/john-lester-de-rama-matienzo-22383b426/)
+GitHub: [AKAGAMII29](https://github.com/AKAGAMII29)
+LinkedIn: [John Lester De Rama Matienzo](https://www.linkedin.com/in/john-lester-de-rama-matienzo-22383b426/)
 ---
 # Installation Screenshots
 ## Git
@@ -35,7 +35,7 @@
 ## VirtualBox
 ![VirtualBox](screenshots/MATIENZO_VIRTUALBOX.png)
 ## Windows ISO
-![WindowsISO](screenshots/MATIENZO_VWINDOWS_ISO.png)
+![WindowsISO](screenshots/MATIENZO_WINDOWS_ISO.png)
 ---
 # Challenges Encountered
     - When I create a folder for the Repository it was empty and the solution I do was to create/added a README files for each  folders.
