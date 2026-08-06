@@ -50,8 +50,12 @@ LinkedIn: https://www.linkedin.com/in/john-lester-de-rama-matienzo-22383b426/
 ---
 # References
 Windows ISO: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise
+
 Ubuntu ISO: https://ubuntu.com/download/desktop
+
 LinkedIn: https://www.linkedin.com/
+
 GitHub: https://github.com/
+
 GitHub Desktop: https://desktop.github.com/download/
 
