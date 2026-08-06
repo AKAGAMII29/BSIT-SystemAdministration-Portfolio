@@ -49,9 +49,9 @@ LinkedIn: https://www.linkedin.com/in/john-lester-de-rama-matienzo-22383b426/
     This first activity also helped me to be patience while installing some of software application because some of it takes time to download and install. Learning GitHUb and some Git commands improved my ability to manage projects and tracks the changes I do on it which is a essential skills for an IT student. As a graduating student those tools will help me in my IT journey like the Github, it will help/allow me to organize files, scripts and documentation while the Ubuntu and and Windows Evaluation will help me to build my practical knowlege since both of it can be use to manage servers and network environment which align to the job I plan to apply after graduation. Overall, this activity was very helpful for me specially in the future.
 ---
 # References
-    - https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise
-    - https://ubuntu.com/download/desktop
-    - https://www.linkedin.com/
-    - https://github.com/
-    - https://desktop.github.com/download/
+Windows ISO: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise
+Ubuntu ISO: https://ubuntu.com/download/desktop
+LinkedIn: https://www.linkedin.com/
+GitHub: https://github.com/
+GitHub Desktop: https://desktop.github.com/download/
 
