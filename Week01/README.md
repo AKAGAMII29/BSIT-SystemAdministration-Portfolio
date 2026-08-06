@@ -20,8 +20,9 @@
     - Windows 11 Enterprise Evaluation ISO
 ---
 # Professional Accounts
-GitHub: [AKAGAMII29](https://github.com/AKAGAMII29)
-LinkedIn: [John Lester De Rama Matienzo](https://www.linkedin.com/in/john-lester-de-rama-matienzo-22383b426/)
+GitHub: https://github.com/AKAGAMII29
+
+LinkedIn: https://www.linkedin.com/in/john-lester-de-rama-matienzo-22383b426/
 ---
 # Installation Screenshots
 ## Git
