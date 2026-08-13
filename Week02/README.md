@@ -22,6 +22,8 @@ The project focuses on planning the enterprise infrastructure of ABC Startup Sol
 
 # Company Scenario
 
+---
+
 ## Company Name
 ABC Startup Solutions
 
@@ -37,8 +39,11 @@ ABC Startup Solutions aims to provide quality software and technical services by
 ## Office Location
 Bagong Pook Business Center, Pila, Laguna, Philippines.
 
+---
+
 ## Organizational Structure
 
+```
 General Manager
 ├── Information Technology Department
 │   └── 5 Employees
@@ -48,6 +53,7 @@ General Manager
 │   └── 5 Employees
 └── Sales Department
     └── 6 Employees
+```
 
 ---
 
