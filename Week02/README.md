@@ -4,11 +4,9 @@
 # Project Overview
 
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;ABC Startup Solutions is a newly established software development company that provides customized software applications, web-based systems, database solutions, and technical support services for small and medium-sized businesses.
+<p>&emsp;ABC Startup Solutions is a newly established software development company that provides customized software applications, web-based systems, database solutions, and technical support services for small and medium-sized businesses.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The project focuses on planning the enterprise infrastructure of ABC Startup Solutions based on its 20 employees and the needs of the IT, HR, Finance, and Sales departments.
-```
-
+<p>&emsp;The project focuses on planning the enterprise infrastructure of ABC Startup Solutions based on its 20 employees and the needs of the IT, HR, Finance, and Sales departments.</p>
 ---
 
 # Learning Objectives
