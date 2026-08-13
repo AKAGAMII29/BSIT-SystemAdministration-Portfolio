@@ -44,13 +44,13 @@ Bagong Pook Business Center, Pila, Laguna, Philippines.
 ```
 General Manager
 ├── Information Technology Department
-│   └── 5 Employees
+│          └── 5 Employees
 ├── Human Resources Department
-│   └── 4 Employees
+│          └── 4 Employees
 ├── Finance Department
-│   └── 5 Employees
+│          └── 5 Employees
 └── Sales Department
-    └── 6 Employees
+           └── 6 Employees
 ```
 
 ---
