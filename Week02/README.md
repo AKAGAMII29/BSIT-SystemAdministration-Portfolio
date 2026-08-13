@@ -3,24 +3,20 @@
 
 # Project Overview
 
-```
 ABC Startup Solutions is a newly established software development company that provides customized software applications, web-based systems, database solutions, and technical support services for small and medium-sized businesses.
 
 The project focuses on planning the enterprise infrastructure of ABC Startup Solutions based on its 20 employees and the needs of the IT, HR, Finance, and Sales departments.
-```
 
 ---
 
 # Learning Objectives
 
-```
 - Identify the hardware needed to support ABC Startup Solutions.
 - Identify the software needed to support daily operations, software development, system administration, security, communication, and file management.
 - Identify the networking equipment needed to connect and protect the company's office network.
 - Understand how different system administration roles work together to maintain, support, and ensure the efficiency of a company's IT infrastructure.
 - Plan the company's internet provider, server specifications, backup strategy, security, antivirus, password policy, and expansion plan.
 - Understand why proper planning is important when building an IT infrastructure.
-```
 
 ---
 
@@ -43,7 +39,6 @@ Bagong Pook Business Center, Pila, Laguna, Philippines.
 
 ## Organizational Structure
 
-```
 General Manager
 ├── Information Technology Department
 │   └── 5 Employees
@@ -53,7 +48,6 @@ General Manager
 │   └── 5 Employees
 └── Sales Department
     └── 6 Employees
-```
 
 ---
 
@@ -107,7 +101,6 @@ The diagram includes the server, printer, wireless access point, and computers f
 
 ## Network Equipment
 
-```
 - ISP Modem
 - Router
 - Firewall
@@ -116,11 +109,9 @@ The diagram includes the server, printer, wireless access point, and computers f
 - Patch Panel
 - CAT6 Cable
 - RJ45 Connectors
-```
 
 ## Software and Operating Systems
 
-```
 - Windows 11 Pro
 - Ubuntu Server
 - Microsoft 365 Apps
@@ -132,26 +123,22 @@ The diagram includes the server, printer, wireless access point, and computers f
 - Microsoft Defender
 - AnyDesk
 - 7-Zip
-```
 
 ---
 
 # Challenges Encountered
 
-```
 - Part 4 was challenging because although I already had some knowledge about networking equipment, I was not completely familiar with all the items included in the inventory, so I had to review their purposes and understand how they are used together in an enterprise network.
 - Part 5 was also challenging because I had some basic knowledge of network devices, but I needed to apply that knowledge to create a complete and logical network diagram.
 - I had to determine the proper connection between the Internet, ISP modem, router, firewall, switch, server, printer, wireless access point, and the different departments.
 - Part 7 was the most unfamiliar part for me because I was new to creating infrastructure recommendations.
 - I needed to learn how to properly recommend an Internet provider, server specifications, backup strategy, security measures, antivirus, password policies, and an expansion plan.
 - This part required me to think beyond simply identifying equipment and understand how different decisions can affect the company's security, reliability, and future growth.
-```
 
 ---
 
 # Reflection
 
-```
 Doing this Week 2 Portfolio Project, it taught me that planning first on how the infrastructure should be design is very important before fully implementing its IT environment. It also helped me on how to properly identify the hardware, software, and networking requirements of the ABC Startup Solutions based on its number of employees and its business operations. I also learned and gained a better understanding on how different system administration roles work together to maintain, support, and ensure the efficiency of a company/organization’s IT infrastructure.
 
 For me, the most challenging task was the part 4, 5, and 7. Part 4 was challenging because although I already had some knowledge about networking equipment, I was not completely familiar with all the items included in the inventory, so I had to review their purposes and understand how they are used together in an enterprise network. Part 5 was also challenging because I had some basic knowledge of network devices, but I needed to apply that knowledge to create a complete and logical network diagram. I had to determine the proper connection between the Internet, ISP modem, router, firewall, switch, server, printer, wireless access point, and the different departments. Part 7 was the most unfamiliar part for me because I was new to creating infrastructure recommendations. I needed to learn how to properly recommend an Internet provider, server specifications, backup strategy, security measures, antivirus, password policies, and an expansion plan. This part required me to think beyond simply identifying equipment and understand how different decisions can affect the company's security, reliability, and future growth.
@@ -159,7 +146,6 @@ For me, the most challenging task was the part 4, 5, and 7. Part 4 was challengi
 I also learned why proper planning is important when building an IT infrastructure. Planning allows an organization to identify its requirements before purchasing equipment and deploying systems. It can help prevent unnecessary expenses, reduce configuration problems, improve security, and provide a clear direction for implementing and maintaining the infrastructure.
 
 Overall, this project helped me realize that being a System Administrator involves more than just troubleshooting computers and fixing technical problems. It also requires proper planning, understanding the organization’s needs, selecting suitable hardware and software, organizing and documenting the infrastructure, and considering security and future expansion. Through this project, I gained new knowledge and a better understanding of how an IT infrastructure is planned and maintained. The experience and skills I gained will help me become more confident and prepared for a future career in IT support or system administration.
-```
 
 ---
 
