@@ -105,7 +105,7 @@ The enterprise network infrastructure of ABC Startup Solutions shows how devices
 
 The diagram includes the server, printer, wireless access point, and computers for the IT, HR, Finance, and Sales departments, with both wired and wireless connections shown.
 
-![Enterprise Network Diagram](diagrams/EnterpriseNetworkDiagram.png)
+![Enterprise Network Diagram](diagrams/PART_5_Enterprise_Network_Diagram.png)
 
 ---
 
