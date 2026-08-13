@@ -39,8 +39,6 @@ ABC Startup Solutions aims to provide quality software and technical services by
 ## Office Location
 Bagong Pook Business Center, Pila, Laguna, Philippines.
 
----
-
 ## Organizational Structure
 
 ```
